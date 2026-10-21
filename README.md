@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nasiba Islam 👋
 
-<!--
-**nislam30-ship-it/nislam30-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biostatistics & Survey Methodology Researcher**  
+Undergraduate Student at ISRT, University of Dhaka | Expected 2028
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Focus
+- **Complex Survey Sampling & ML:** Integrating sampling weights, PSUs, and strata into tree ensembles (`ranger`, `xgboost`).
+- **Survival Analysis:** Design-adjusted Cox proportional hazards modeling (`svycoxph`) and NCHS linked mortality analyses.
+- **Epidemiology:** Biological age acceleration (NHANES) and metabolic syndrome risk factors (WHO STEPS).
+
+---
+
+### 📌 Portfolio Repositories
+- [reproducible-survey-ml-pipeline](https://github.com/nislam30-ship-it/reproducible-survey-ml-pipeline) — Production pipeline for complex survey design specification, $Deff$ estimation, and weighted ML.
+- [survival-analysis-causal-inference](https://github.com/nislam30-ship-it/survival-analysis-causal-inference) — Time-to-event pipeline featuring design-weighted Cox models (`svycoxph`) and proportional hazards diagnostics.
+
+---
+
+### 🛠️ Technical Toolkit
+- **Languages:** R, Python, Stata, SQL, C++, LaTeX
+- **Core Libraries:** `survey`, `survival`, `ranger`, `xgboost`, `shapviz`, `lavaan`, `tidyverse`
